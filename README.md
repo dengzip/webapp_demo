@@ -1,2 +1,2 @@
-# webpp_demo
+# webapp_demo
 A python webapp demo
